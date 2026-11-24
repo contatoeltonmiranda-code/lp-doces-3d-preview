@@ -1,0 +1,33 @@
+# Granulê Brigaderia
+
+> Brigadeiro gourmet enrolado à mão, um por um, em 6 sabores, vendido em caixas para festa e presente. Encomendas pelo WhatsApp com 48 horas de antecedência. Marca fictícia criada para demonstração de portfólio: preços, números, história e depoimentos são ilustrativos.
+
+## Página principal
+
+- [Brigadeiro gourmet feito à mão](https://granule-brigaderia.example/brigadeiro-gourmet/): história da marca, ingredientes, as 4 etapas de preparo, os 6 sabores, kits, perguntas frequentes e encomenda pelo WhatsApp.
+
+## Sabores (preço por unidade)
+
+- Tradicional: chocolate 54% e granulado de chocolate. R$ 4,50.
+- Leite em Pó: massa de leite em pó coberta de leite em pó. R$ 4,90.
+- Pistache: massa de pistache com pistache picado. R$ 6,90.
+- Churros: doce de leite, canela e açúcar cristal. R$ 5,50.
+- Maracujá: brigadeiro branco com maracujá. R$ 5,50.
+- Café Cremoso: chocolate com café coado na massa. R$ 5,50.
+
+## Kits
+
+- Caixa Presente: 9 brigadeiros, até 3 sabores, caixa rígida com laço de cetim. R$ 49,90.
+- Kit Festa (mais pedido): 50 brigadeiros, até 4 sabores, forminhas na cor da festa. R$ 229,00.
+- Kit Festão: 100 brigadeiros, até 6 sabores, forminhas na cor da festa e 2 bandejas de apresentação. R$ 429,00.
+
+## Como encomendar
+
+- Pelo WhatsApp, informando data, quantidade e sabores. Resposta em até 2 horas, de segunda a sábado, das 9h às 18h.
+- Antecedência: 48 horas para até 100 unidades; acima disso, 5 dias.
+- Entrega com horário marcado em até 15 km do ateliê, ou retirada gratuita.
+- Pagamento: Pix ou cartão em até 3x sem juros; a data fica reservada com 50% de sinal.
+
+## Alergênicos
+
+- Todos os sabores contêm leite. O de pistache contém pistache. A cozinha manipula glúten, castanhas e amendoim.
